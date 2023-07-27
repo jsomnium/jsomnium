@@ -1,1 +1,1 @@
-<a href="https://velog.io/@gabujwb" target="_blank"><img src="https://img.shields.io/badge/Velog-#ffffff?style=flat&logo=velog&logoColor=#20C997"/></a>
+<a href="https://velog.io/@gabujwb" target="_blank"><img src="https://img.shields.io/badge/Velog-balck?style=flat&logo=velog&logoColor=#20C997"/></a>
