@@ -6,5 +6,5 @@
 
 <a href="https://velog.io/@gabujwb" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=ffffff"/></a>
 <a href="[https://velog.io/@gabujwb](https://www.instagram.com/pas.zlsu.sion/
-)" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
+)" target="_blank"><img src="hhttps://www.instagram.com/pas.zlsu.sion/?hl=am-et-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 
