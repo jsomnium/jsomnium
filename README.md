@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&text=Grow%20Together&fontSize=90)
+
 ### Activity
 
 - [GDSC Hongik](https://github.com/GDSC-Hongik) Mobile Member (2022.09~ 2023.02)
