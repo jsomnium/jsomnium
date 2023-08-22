@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=1,1,4,1,30&height=100&section=header&text=Grow%20Together&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=8,6,4,1,30&height=100&section=header&text=Grow%20Together&fontSize=70)
 
 ### Activity
 
