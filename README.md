@@ -6,7 +6,7 @@
 - ExP Make (2023.09~ ing)
 
 ### Tech Stack
-C++, C#, Python
+C++, C#
 
 ### Link
 
