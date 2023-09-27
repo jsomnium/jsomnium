@@ -3,7 +3,7 @@
 ### Activity
 
 - [GDSC Hongik](https://github.com/GDSC-Hongik) Mobile Member (2022.09~ 2023.02)
-- 컴퓨터공학과 학부 연구생 (2023.09~ ing)
+- ExP Make (2023.09~ ing)
 
 ### Tech Stack
 C++, C#, Python
