@@ -4,7 +4,7 @@
 
 - [GDSC Hongik](https://github.com/GDSC-Hongik) Mobile Member (2022.09~ 2023.02)
 - ExP Make (2023.09~ 2024.02)
-- UMC 6th Hongik Web (2024.03~ ing)
+- UMC 6th Hongik Web (2024.03~ 2024.08)
 
 ### Link
 
