@@ -9,11 +9,14 @@
     - **`GDSC`** 2기, 3기 멤버 (2023.03~ 2024.02)
     - GDSC 개발팀 프론트엔드 (2025.02~ ing)
 - 홍익대학교 게임 개발 동아리 **`ExP Make`** (2023.09~ 2024.02)
-    - 모바일 플랫폼 게임 **CityScape** 개발
+    - 모바일 플랫폼 게임 **[CityScape](https://github.com/CityScape-EXP/CityScape)** 개발
 - 대학생 연합 개발 동아리 **`UMC`** 6기 웹 (2024.02~ 2024.08)
-    - 공연자, 관람자, 공연장을 위한 공연장 대관 서비스 **ShowHoo!** 개발
+    - 공연자, 관람자, 공연장을 위한 공연장 대관 서비스 **[ShowHoo!](https://github.com/UMC-ShowHoo/ShowHoo-Web)** 개발
 - 대학생 연합 IT 창업 동아리 **`CEOS`** 20기 프론트엔드 (2024.09~)
-    - 악기 대여부터 구매까지 One Stop Commerce 서비스, **무사이** 개발
+    - 악기 대여부터 구매까지 One Stop Commerce 서비스, **[무사이](https://github.com/TEAM-PEDALGENIE/PedalGenie-Front)** 개발
+ 
+### TECH STACK
+- React, TypeScript, Next.js
 
 ### Link
 
