@@ -4,7 +4,6 @@
 
 - 홍익대학교 컴퓨터공학과 재학중 (2021.03~ ing)
 - 홍익대학교 밴드 학회 **`Keunsori`** 보컬 (2021.09~ ing)
-    - 학회 임원 (2022.01~ 2022.12)
 - 홍익대학교 개발 동아리 [**`GDSC`**](https://github.com/GDSC-Hongik) 1기 **모바일** 멤버 (2022.09~ 2023.02)
     - **`GDSC`** 2기, 3기 멤버 (2023.03~ 2024.02)
     - **`GDSC`** 개발팀 프론트엔드 (2025.02~ ing)
@@ -16,7 +15,7 @@
     - 악기 대여부터 구매까지 One Stop Commerce 서비스, **[무사이](https://github.com/TEAM-PEDALGENIE/PedalGenie-Front)** 개발
  
 ### TECH STACK
-- React, TypeScript, Next.js
+- React, JavaScript, TypeScript, Next.js
 
 ### Link
 
