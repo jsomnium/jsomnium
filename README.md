@@ -12,7 +12,10 @@
 - 대학생 연합 개발 동아리 **`UMC`** 6기 웹 (2024.02~ 2024.08)
     - 공연자, 관람자, 공연장을 위한 공연장 대관 서비스 **[ShowHoo!](https://github.com/UMC-ShowHoo/ShowHoo-Web)** 개발
 - 대학생 연합 IT 창업 동아리 **`CEOS`** 20기 프론트엔드 (2024.09~)
-    - 악기 대여부터 구매까지 One Stop Commerce 서비스, **[무사이](https://github.com/TEAM-PEDALGENIE/PedalGenie-Front)** 개발
+    - 악기 대여부터 구매까지 One Stop Commerce 서비스, **[MUSAI](https://github.com/TEAM-PEDALGENIE/PedalGenie-Front)** 개발
+- 홍익대학교 컴퓨터 공학과 졸업 프로젝트
+    - 정산 & 사진 관리 서비스, **[SnapSplit](https://github.com/SnapSplit-hongik2025/SnapSplit-Front)** 개발
+
  
 ### TECH STACK
 - React, JavaScript, TypeScript, Next.js
