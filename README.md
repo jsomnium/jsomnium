@@ -12,9 +12,9 @@
     - 모바일 플랫폼 게임 **[CityScape](https://github.com/CityScape-EXP/CityScape)** 개발
 - 대학생 연합 개발 동아리 **`UMC`** 6기 웹 (2024.02~ 2024.08)
     - 공연자, 관람자, 공연장을 위한 공연장 대관 서비스 **[ShowHoo!](https://github.com/UMC-ShowHoo/ShowHoo-Web)** 개발
-- 대학생 연합 IT 창업 동아리 **`CEOS`** 20기 프론트엔드 (2024.09~)
+- 대학생 연합 IT 창업 동아리 **`CEOS`** 20기 프론트엔드 (2024.09~2025.02)
     - 악기 대여부터 구매까지 One Stop Commerce 서비스, **[MUSAI](https://github.com/TEAM-PEDALGENIE/PedalGenie-Front)** 개발
-- 홍익대학교 컴퓨터 공학과 졸업 프로젝트 (2025.02~)
+- 홍익대학교 컴퓨터 공학과 졸업 프로젝트 (2025.02~2025.09)
     - 정산 & 사진 관리 서비스, **[SnapSplit](https://github.com/SnapSplit-hongik2025/SnapSplit-Front)** 개발
 - 홍익대학교 시각디자인과 프린트실 예약 서비스 (2025.5~)
     - **[HIVCD PRINTSHOP](https://github.com/HIVCD-PRINTSHOP)** 개발
