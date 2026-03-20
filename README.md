@@ -9,7 +9,7 @@
     - **`GDSC`** 개발팀 프론트엔드 (2025.02~ ing)
       - GDGoC Hongik 스터디 서비스 **[WOW-CLASS](https://github.com/gdg-hongik-univ/wow-class)** 개발 및 유지보수
 - 홍익대학교 게임 개발 동아리 **`ExP Make`** (2023.09~ 2024.02)
-    - 모바일 플랫폼 게임 **[CityScape](https://github.com/CityScape-EXP/CityScape)** 개발
+    - 모바일 플랫폼 게임 **[CityScape](https://github.com/CityScape-EXP/CityScape)** 개발 및 [출시](https://play.google.com/store/apps/details?id=com.ExP_Studio.CityScape&hl=ko)
 - 대학생 연합 개발 동아리 **`UMC`** 6기 웹 (2024.02~ 2024.08)
     - 공연자, 관람자, 공연장을 위한 공연장 대관 서비스 **[ShowHoo!](https://github.com/UMC-ShowHoo/ShowHoo-Web)** 개발
 - 대학생 연합 IT 창업 동아리 **`CEOS`** 20기 프론트엔드 (2024.09~2025.02)
