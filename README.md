@@ -18,6 +18,8 @@
     - 정산 & 사진 관리 서비스, **[SnapSplit](https://github.com/SnapSplit-hongik2025/SnapSplit-Front)** 개발
 - 홍익대학교 시각디자인과 프린트실 예약 서비스 (2025.5~2025.07)
     - **[HIVCD PRINTSHOP](https://github.com/HIVCD-PRINTSHOP)** 개발
+- [KB IT's Your Life] 7기 교육 수강 (2026.03.04~ ing)
+    - 스켈레톤 프로젝트, 가계부 서비스 [NOIR VAULT] 개발
  
 ### TECH STACK
 - React, JavaScript, TypeScript, Next.js
