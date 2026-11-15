@@ -20,6 +20,7 @@
     - **[HIVCD PRINTSHOP](https://github.com/HIVCD-PRINTSHOP)** 개발
 - [KB IT's Your Life] 7기 교육 수강 (2026.03.04~ 2026.06.05)
     - 스켈레톤 프로젝트, 가계부 서비스 [[NOIR VAULT]](https://github.com/kb-7th-household-account-book/vue-account-book) 개발
+- 클라우드 병원 정보 시스템 개발 (2026.06.29 ~ 인턴 최종 전환, 재직중)
  
 ### TECH STACK
 - React, JavaScript, TypeScript, Next.js
