@@ -1,22 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=8,6,4,1,30&height=200&section=header&text=Grow%20Together&fontSize=70)
 
-### Activity
+### Activity 
 
-- 홍익대학교 컴퓨터공학과 졸업 예정 (2021.03~ 2026.02)
-- 홍익대학교 밴드 학회 **`Keunsori`** 보컬 (2021.09~ 2025.09)
-- 홍익대학교 개발 동아리 [**`GDSC`**](https://github.com/GDSC-Hongik) 1기 **모바일** 멤버 (2022.09~ 2023.02)
+- **대학교 컴퓨터공학과 졸업 예정 (2021.03~ 2026.02)
+- **대학교 밴드 학회 **`Keunsori`** 보컬 (2021.09~ 2025.09)
+- **대학교 개발 동아리 [**`GDSC`**](https://github.com/GDSC-Hongik) 1기 **모바일** 멤버 (2022.09~ 2023.02)
     - **`GDSC`** 2기, 3기 멤버 (2023.03~ 2024.02)
     - **`GDSC`** 개발팀 프론트엔드 (2025.02~ ing)
-      - GDGoC Hongik 스터디 서비스 **[WOW-CLASS](https://github.com/gdg-hongik-univ/wow-class)** 개발 및 유지보수
-- 홍익대학교 게임 개발 동아리 **`ExP Make`** (2023.09~ 2024.02)
+      - GDGoC 스터디 서비스 **[WOW-CLASS](https://github.com/gdg-hongik-univ/wow-class)** 개발 및 유지보수
+- **대학교 게임 개발 동아리 **`ExP Make`** (2023.09~ 2024.02)
     - 모바일 플랫폼 게임 **[CityScape](https://github.com/CityScape-EXP/CityScape)** 개발 및 [출시](https://play.google.com/store/apps/details?id=com.ExP_Studio.CityScape&hl=ko)
 - 대학생 연합 개발 동아리 **`UMC`** 6기 웹 (2024.02~ 2024.08)
     - 공연자, 관람자, 공연장을 위한 공연장 대관 서비스 **[ShowHoo!](https://github.com/UMC-ShowHoo/ShowHoo-Web)** 개발
 - 대학생 연합 IT 창업 동아리 **`CEOS`** 20기 프론트엔드 (2024.09~2025.02)
     - 악기 대여부터 구매까지 One Stop Commerce 서비스, **[MUSAI](https://github.com/TEAM-PEDALGENIE/PedalGenie-Front)** 개발
-- 홍익대학교 컴퓨터 공학과 졸업 프로젝트 (2025.02~2025.11)
+- **대학교 컴퓨터 공학과 졸업 프로젝트 (2025.02~2025.11)
     - 정산 & 사진 관리 서비스, **[SnapSplit](https://github.com/SnapSplit-hongik2025/SnapSplit-Front)** 개발
-- 홍익대학교 시각디자인과 프린트실 예약 서비스 (2025.5~2025.07)
+- **대학교 시각디자인과 프린트실 예약 서비스 (2025.5~2025.07)
     - **[HIVCD PRINTSHOP](https://github.com/HIVCD-PRINTSHOP)** 개발
 - [KB IT's Your Life] 7기 교육 수강 (2026.03.04~ ing)
     - 스켈레톤 프로젝트, 가계부 서비스 [NOIR VAULT] 개발
